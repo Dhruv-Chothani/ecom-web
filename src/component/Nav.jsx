@@ -17,7 +17,7 @@ function Nav() {
           <p>Welcome to electon-store Store</p>
           </div>
           <div className="account-section">
-            <p>My account</p>
+            <p>self account</p>
           </div>
         </div>
       </header>
